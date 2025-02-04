@@ -1,6 +1,9 @@
 # gridview_widget_flutter
 
-A new Flutter project.
+This is my exercise about gridview widget with flutter.
+
+![Uploading image.png…]()
+
 
 ## Getting Started
 
